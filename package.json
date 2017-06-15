@@ -40,7 +40,7 @@
     "haraka-plugin-watch"   : "*"
   },
   "optionalDependencies": {
-    "elasticsearch"         : "*",
+    "elasticsearch"         : "13.0.1",
     "ldapjs"                : "~1.0.0",
     "haraka-plugin-redis"   : "*",
     "haraka-plugin-syslog"  : "*",
